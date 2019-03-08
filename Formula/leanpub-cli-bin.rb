@@ -1,4 +1,4 @@
-class LeanPubCliBin < Formula
+class LeanpubCliBin < Formula
   version '0.1.1'
   desc "CLI tool for leanpub.com."
   homepage "https://github.com/hjiang/leanpub-cli"
